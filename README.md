@@ -66,5 +66,3 @@
   Created a dynamic blog application with Django, featuring user authentication, content management, and responsive design.
 
 Feel free to check out my repositories and collaborate! 😊
-
-![Profile Views](https://img.shields.io/badge/Profile%20Views-1000-brightgreen)
