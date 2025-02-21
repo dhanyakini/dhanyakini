@@ -7,10 +7,9 @@
 - 🐍 **Python for Data Science**: Utilizing Python's powerful libraries to analyze data and build intelligent models.
 - 🤖 **AI & ML Applications**: Understanding real-world applications of AI and machine learning to solve practical problems.
 
-
-### 🔭 Currently Working On:
-🚦 **[Traffic Prediction Using YOLO](https://github.com/dhanyakini/YOLO-Traffic)**:  
-  A computer vision project leveraging the YOLO framework for real-time traffic object detection and classification. This project aims to enhance urban mobility by predicting traffic patterns.
+### 🔭 Currently Working On:  
+📰 **[Kannada News Keyword Generator](https://github.com/dhanyakini/kannadaKeyWordGenerator)**:  
+  A machine learning-based project for generating keywords from Kannada news articles. It processes an XML dataset using IndicBERT to extract relevant keywords and the English URL, enabling offline keyword generation.  
 
 ### 📫 How to Reach Me:
 <div>
