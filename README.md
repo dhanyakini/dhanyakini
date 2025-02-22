@@ -9,7 +9,7 @@
 
 ### 🔭 Currently Working On:  
 📰 **[Kannada News Keyword Generator](https://github.com/dhanyakini/Kannada-Keyword-Generator)**:  
-  A machine learning-based project for generating keywords from Kannada news articles. It processes an XML dataset using IndicBERT to extract relevant keywords and the English URL, enabling offline keyword generation.  
+  A machine learning-based project for generating keywords from Kannada news articles. It processes an XML dataset using IndicBART to extract relevant keywords and the English URL, enabling offline keyword generation.  
 
 ### 📫 How to Reach Me:
 <div>
