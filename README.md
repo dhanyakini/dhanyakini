@@ -8,9 +8,9 @@
 - 🤖 **AI & ML Applications**: Understanding real-world applications of AI and machine learning to solve practical problems.
 
 ### 🔭 Currently Working On:  
-**[Verification Strategies for Multi-Agent Financial Advisor]([https://github.com/bhoomi02-ai/cs5130-verification-advisory])**
+**[Verification Strategies for Multi-Agent Financial Advisor](https://github.com/bhoomi02-ai/cs5130-verification-advisory)**
 
-**[Calibration Aware Safety Events]([https://github.com/NU-PRCV/Calibration-Aware-Safety-Events])**
+**[Calibration Aware Safety Events](https://github.com/NU-PRCV/Calibration-Aware-Safety-Events)**
 
 
 ### 📫 How to Reach Me:
